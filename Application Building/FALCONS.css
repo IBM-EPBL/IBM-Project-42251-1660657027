@@ -1,0 +1,15 @@
+button
+{
+   height:30px;
+   width:100px;
+   background-color:blanchedalmond;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size:10px;
+   color:black;
+}
+body
+{
+    background:url(https://images.idgesg.net/images/article/2020/07/phishing_attack_security_threat_fish_hook_binary_code_by_andreus_gettyimages-1253294358_cso_2400x1600-100851297-large.jpg?auto=webp&quality=85,70);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
